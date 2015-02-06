@@ -1,0 +1,22 @@
+{
+  "folders":
+  [
+    {
+      "file_exclude_patterns":
+      [
+        "*.sublime-workspace",
+        ".gitkeep",
+      ],
+      "folder_exclude_patterns":
+      [
+        "node_modules",
+        ".divshot-cache",
+      ],
+      "follow_symlinks": true,
+      "path": "."
+    }
+  ],
+  "settings":
+  {
+  }
+}
