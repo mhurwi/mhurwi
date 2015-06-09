@@ -10,58 +10,24 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="shortcut icon" href="http://localhost:2368/assets/favicon.png?v=b61f2a73ac">
+    <link rel="shortcut icon" href="http://localhost:2368/assets/favicon.png?v=6d00351b66">
 
     <!--[if lt IE 9]>
     <script src="http://s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
-    <script type="text/javascript" src="/assets/js/html5shiv.js?v=b61f2a73ac"></script>
-    <script type="text/javascript" src="/assets/js/css3-mediaqueries.js?v=b61f2a73ac"></script>
-    <script type="text/javascript" src="/assets/js/selectivizr-min.js?v=b61f2a73ac"></script>
+    <script type="text/javascript" src="/assets/js/html5shiv.js?v=6d00351b66"></script>
+    <script type="text/javascript" src="/assets/js/css3-mediaqueries.js?v=6d00351b66"></script>
+    <script type="text/javascript" src="/assets/js/selectivizr-min.js?v=6d00351b66"></script>
     <![endif]-->
 
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed|Poly:400,400italic' rel='stylesheet' type='text/css'>
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="assets/css/normalize.css?v=b61f2a73ac" />
-    <link rel="stylesheet" type="text/css" href="assets/css/ghostship.min.css?v=b61f2a73ac" />
-    <link rel="stylesheet" type="text/css" href="assets/css/prettify/sunburst.css?v=b61f2a73ac" />
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css?v=b61f2a73ac" />
+    <link rel="stylesheet" type="text/css" href="assets/css/normalize.css?v=6d00351b66" />
+    <link rel="stylesheet" type="text/css" href="assets/css/ghostship.min.css?v=6d00351b66" />
+    <link rel="stylesheet" type="text/css" href="assets/css/prettify/sunburst.css?v=6d00351b66" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css?v=6d00351b66" />
 
     <link rel="canonical" href="projects" />
-    
-    <meta property="og:site_name" content="Mhurwi" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Projects" />
-    <meta property="og:description" content="Launch Brick Labs Copybar Commmunity Sourced Capital Modifi..." />
-    <meta property="og:url" content="http://localhost:2368/projects/" />
-    <meta property="article:published_time" content="2015-02-06T15:39:51.468Z" />
-    <meta property="article:modified_time" content="2015-02-06T15:42:47.563Z" />
-    
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Projects" />
-    <meta name="twitter:description" content="Launch Brick Labs Copybar Commmunity Sourced Capital Modifi..." />
-    <meta name="twitter:url" content="http://localhost:2368/projects/" />
-    
-    <script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "Article",
-    "publisher": "Mhurwi",
-    "author": {
-        "@type": "Person",
-        "name": "Mark Hurwitz",
-        "image": "//www.gravatar.com/avatar/9d7ef290cb87ca79dd8ea7879c465dfb?s=250&d=mm&r=x",
-        "url": "http://localhost:2368/author/mark",
-        "sameAs": null
-    },
-    "headline": "Projects",
-    "url": "http://localhost:2368/projects/",
-    "datePublished": "2015-02-06T15:39:51.468Z",
-    "dateModified": "2015-02-06T15:42:47.563Z",
-    "description": "Launch Brick Labs Copybar Commmunity Sourced Capital Modifi..."
-}
-    </script>
-
-    <meta name="generator" content="Ghost 0.5" />
+    <meta name="generator" content="Ghost 0.6" />
     <link rel="alternate" type="application/rss+xml" title="Mhurwi" href="rss/index.html" />
 </head>
 <body class="post-template page-template page">
@@ -78,13 +44,13 @@
         <h1 id="blog_title"><a href="index.html">Mhurwi</a></h1>
 
         
-        <nav id="menu_willsong">
-        	<ul>
-        		<li><a href="about">About</a></li>
-        		<li><a href="projects">Projects</a></li>
-        		<li><a href="contact">Contact</a></li>
-        	</ul>
-        </nav>
+<nav id="menu_willsong">
+	<ul>
+		<li><a href="about">About</a></li>
+		<li><a href="projects">Projects</a></li>
+		<li><a href="contact">Contact</a></li>
+	</ul>
+</nav>
     </div>
 
 </header>
@@ -115,26 +81,26 @@
 </main>
 
     
-    <footer id="foot_willsong">
-    	
-    	<section id="foot_content">
-    		<ul id="sociallinks_willsong">
-    			<li><a href="rss/index.html" class="fa fa-rss"></a></li>
-    			<li><a href="projects#" class="fa fa-twitter"></a></li>
-    			<li><a href="projects#" class="fa fa-facebook"></a></li>
-    			<li><a href="projects#" class="fa fa-github"></a></li>
-    		</ul>
-    	</section>
-    	
-    	<section id="copyright_willsong">
-    		© 2015 Willsong. Theme crafted by <a href="http://marcosn.com/">marcosn.com</a>. Proudly powered by <a href="http://ghost.org/">Ghost</a>.
-    	</section>
-    </footer>
-    <script src="public/jquery.js?v=b61f2a73ac"></script>
+<footer id="foot_willsong">
+	
+	<section id="foot_content">
+		<ul id="sociallinks_willsong">
+			<li><a href="rss/index.html" class="fa fa-rss"></a></li>
+			<li><a href="projects#" class="fa fa-twitter"></a></li>
+			<li><a href="projects#" class="fa fa-facebook"></a></li>
+			<li><a href="projects#" class="fa fa-github"></a></li>
+		</ul>
+	</section>
+	
+	<section id="copyright_willsong">
+		© 2015 Willsong. Theme crafted by <a href="http://marcosn.com/">marcosn.com</a>. Proudly powered by <a href="http://ghost.org/">Ghost</a>.
+	</section>
+</footer>
+    <script src="public/jquery.js?v=6d00351b66"></script>
 
-    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=b61f2a73ac"></script>
-    <script type="text/javascript" src="assets/js/prettify.js?v=b61f2a73ac"></script>
-    <script type="text/javascript" src="assets/js/main.js?v=b61f2a73ac"></script>
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=6d00351b66"></script>
+    <script type="text/javascript" src="assets/js/prettify.js?v=6d00351b66"></script>
+    <script type="text/javascript" src="assets/js/main.js?v=6d00351b66"></script>
 
 </body>
 </html>
